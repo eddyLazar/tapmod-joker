@@ -1,68 +1,82 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Joker Project
 
-In the project directory, you can run:
+## Naming Conventions
 
-### `npm start`
+### Naming Components
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+see more [link](https://medium.com/@wittydeveloper/react-components-naming-convention-%EF%B8%8F-b50303551505)
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+[Domain]|[Page/Context]|ComponentName|[Type]
 
-### `npm test`
+Exmaples: `UserCreateButton`, `GamesTypeSelect`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Folder structure
 
-### `npm run build`
+This project leverages the [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) (see also [about atomic desing in react](https://blog.usejournal.com/thinking-about-react-atomically-608c865d2262)) methodology to create a scalable and easy to maintain component folder structure.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> In short, Atomic Design is a methodology proposed by [**@bradfrost**](https://github.com/bradfrost) by which you can better organize your UI components. It can be done by separating components in `atoms`, `molecules`, `organisms`, `pages` and `templates`.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+### Atoms
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+An atom is a native html tag, a React Component that renders an html tag or any third party component:
 
-### `npm run eject`
+```jsx
+const Label = props => <label {...props} />;
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Molecules
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+A molecule is a group of atoms:
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```jsx
+const Field = ({ label, ...inputProps }) => (
+  <Label>
+    {label}
+    <Input {...inputProps} />
+  <Label>
+)
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Organisms
 
-## Learn More
+An organism is a group of atoms, molecules and/or other organisms:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<sub>**organisms/Form.js**</sub>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```jsx
+const Form = (props) => (
+  <form {...props}>
+    <Field label="Name" type="text" />
+    <Field label="Email" type="email" />
+  <form>
+)
+```
 
-### Code Splitting
+### Pages
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+A page is... well, a page, where you will put mostly (but not exclusively) organisms:
 
-### Analyzing the Bundle Size
+<sub>**pages/HomePage.js**</sub>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+```jsx
+const HomePage = () => (
+  <PageTemplate header={<Header />}>
+    <Form />
+  </PageTemplate>
+);
+```
 
-### Making a Progressive Web App
+### Templates
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+A template is a layout to be used on pages, see [why templates are good practice](https://github.com/diegohaz/arc/issues/20#issuecomment-265934388):
 
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+```jsx
+const PageTemplate = ({ header, children }) => (
+  <main>
+    {header && <div>{header}</div>}
+    {children}
+  </main>
+);
+```
