@@ -6,8 +6,10 @@ const orange2 = '#AF6D2C';
 const brown = '#35302b';
 const darkgray = '#211e1c';
 const gray = '#b0a499';
+const yellow = '#e0e400';
 
 const colors = {
+  gameTypeIcon: yellow,
   white: '#fff',
   red: '#bf3d2d',
   text: '#d7cec5',
@@ -19,6 +21,7 @@ const colors = {
   lightgray: '#fafafa',
   dropdown: '#4F453B',
   card: '#35302b',
+  cardText: gray,
   categoryName: gray,
   page: darkgray,
   modes: {

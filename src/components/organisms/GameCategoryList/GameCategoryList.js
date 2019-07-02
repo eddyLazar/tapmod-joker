@@ -11,9 +11,8 @@ export default ({ categoryList = [{ href: '', name: '', icon: '' }] }) => {
   return (
     <OverfowBox>
       {categoryList.map(category => (
-        <Link>
+        <Link key={category.name}>
           <GameCategory.Card
-            key={category.name}
             isActive={category.icon === active}
             onClick={() => setActive(category.icon)}
           >

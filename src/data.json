@@ -1,4 +1,9 @@
 {
+  "gameTypes": [
+    { "icon": "diamond", "name": "Игры с джекпотом" },
+    { "icon": "cup", "name": "Турнирные игры" },
+    { "icon": "rm", "name": "Real money" }
+  ],
   "categoryList": [
     {
       "href": "https://sol1.casino/game/slots",

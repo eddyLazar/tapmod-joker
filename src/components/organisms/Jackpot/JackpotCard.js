@@ -6,6 +6,7 @@ const JackpotCard = styled(GameCategory.Card)`
   width: auto !important;
   flex: 1;
   text-align: left;
+  margin-right: 0px;
 `;
 
 JackpotCard.defaultProps = {

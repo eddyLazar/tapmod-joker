@@ -9,7 +9,7 @@ export default ({ name = '', imgPath = '', href = '' }) => (
     <Card p={0} href={href} withHover>
       <Image width={[1]} src={imgPath} />
       <Flex py={12} px={16} justifyContent="space-between" alignItems="center">
-        <Text fontWeight="bold" fontSize={[0, 2]}>
+        <Text fontWeight="bold" fontSize={[0, 2]} color="white">
           {name}
         </Text>
         <Dropdown />

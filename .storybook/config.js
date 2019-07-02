@@ -5,6 +5,7 @@ import theme from '../src/theme';
 import { IconFont } from '../src/components/atoms/Icon';
 import { Box } from 'rebass';
 import 'normalize.css';
+import '../src/index.css';
 
 const req = require.context('../src/components', true, /\.stories\.js$/);
 
@@ -20,7 +21,7 @@ addDecorator(storyFn => (
 ));
 
 addDecorator(storyFn => (
-  <Box p="8px" backgroundColor="#211e1c">
+  <Box p={[1, 4]} backgroundColor="#211e1c">
     {storyFn()}
   </Box>
 ));

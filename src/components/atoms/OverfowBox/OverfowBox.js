@@ -4,6 +4,7 @@ import styled from 'styled-components';
 
 const StyledBox = styled(Box)`
   overflow-x: scroll;
+  overflow-x: visible;
 `;
 
 export default ({ children }) => (
