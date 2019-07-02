@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "normalize.css": "^8.0.1",
     "react": "^16.8.6",
+    "react-cache": "^2.0.0-alpha.1",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "rebass": "^3.1.1",
+    "styled-components": "^4.3.2",
+    "the-platform": "^0.10.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -46,6 +51,7 @@
     "@storybook/addon-links": "^5.1.9",
     "@storybook/addons": "^5.1.9",
     "@storybook/react": "^5.1.9",
+    "@storybook/storybook-deployer": "^2.8.1",
     "husky": "^2.6.0",
     "lint-staged": "^8.2.1",
     "prettier": "^1.18.2"

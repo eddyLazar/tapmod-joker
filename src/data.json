@@ -1,0 +1,111 @@
+{
+  "categoryList": [
+    {
+      "href": "https://sol1.casino/game/slots",
+      "icon": "slots-lg",
+      "name": "Слоты"
+    },
+    {
+      "href": "https://sol1.casino/game/live",
+      "icon": "live-diller-lg",
+      "name": "Live дилеры"
+    },
+    {
+      "href": "https://sol1.casino/game/table",
+      "icon": "dice-lg",
+      "name": "Настольные"
+    },
+    {
+      "href": "https://sol1.casino/game/video_poker",
+      "icon": "cards-lg",
+      "name": "Видеопокер"
+    },
+    {
+      "href": "https://sol1.casino/game/thematic",
+      "icon": "collections-lg",
+      "name": "Коллекции"
+    }
+  ],
+  "games": [
+    {
+      "image": "https://sol1.casino/images/games/netent/starburst_not_mobile_sw.png",
+      "name": "Starburst",
+      "href": "https://sol1.casino/play/real/netent-starburst_not_mobile_sw"
+    },
+    {
+      "image": "https://sol1.casino/images/games/spinomenal/SummerSplash.png",
+      "name": "Summer Splash",
+      "href": "https://sol1.casino/play/real/spinomenal-SummerSplash"
+    },
+    {
+      "image": "https://sol1.casino/images/games/egt/UltimateHot.png",
+      "name": "Ultimate Hot",
+      "href": "https://sol1.casino/play/real/egt-UltimateHot"
+    },
+    {
+      "image": "https://sol1.casino/images/games/netent/spacewars_not_mobile_sw.png",
+      "name": "Space Wars",
+      "href": "https://sol1.casino/play/real/netent-spacewars_not_mobile_sw"
+    },
+    {
+      "image": "https://sol1.casino/images/games/netent/starburst_not_mobile_sw.png",
+      "name": "Starburst",
+      "href": "https://sol1.casino/play/real/netent-starburst_not_mobile_sw"
+    },
+    {
+      "image": "https://sol1.casino/images/games/spinomenal/SummerSplash.png",
+      "name": "Summer Splash",
+      "href": "https://sol1.casino/play/real/spinomenal-SummerSplash"
+    },
+    {
+      "image": "https://sol1.casino/images/games/egt/UltimateHot.png",
+      "name": "Ultimate Hot",
+      "href": "https://sol1.casino/play/real/egt-UltimateHot"
+    },
+    {
+      "image": "https://sol1.casino/images/games/netent/spacewars_not_mobile_sw.png",
+      "name": "Space Wars",
+      "href": "https://sol1.casino/play/real/netent-spacewars_not_mobile_sw"
+    },
+    {
+      "image": "https://sol1.casino/images/games/netent/starburst_not_mobile_sw.png",
+      "name": "Starburst",
+      "href": "https://sol1.casino/play/real/netent-starburst_not_mobile_sw"
+    },
+    {
+      "image": "https://sol1.casino/images/games/spinomenal/SummerSplash.png",
+      "name": "Summer Splash",
+      "href": "https://sol1.casino/play/real/spinomenal-SummerSplash"
+    },
+    {
+      "image": "https://sol1.casino/images/games/egt/UltimateHot.png",
+      "name": "Ultimate Hot",
+      "href": "https://sol1.casino/play/real/egt-UltimateHot"
+    },
+    {
+      "image": "https://sol1.casino/images/games/netent/spacewars_not_mobile_sw.png",
+      "name": "Space Wars",
+      "href": "https://sol1.casino/play/real/netent-spacewars_not_mobile_sw"
+    },
+    {
+      "image": "https://sol1.casino/images/games/netent/starburst_not_mobile_sw.png",
+      "name": "Starburst",
+      "href": "https://sol1.casino/play/real/netent-starburst_not_mobile_sw"
+    },
+    {
+      "image": "https://sol1.casino/images/games/spinomenal/SummerSplash.png",
+      "name": "Summer Splash",
+      "href": "https://sol1.casino/play/real/spinomenal-SummerSplash"
+    },
+    {
+      "image": "https://sol1.casino/images/games/egt/UltimateHot.png",
+      "name": "Ultimate Hot",
+      "href": "https://sol1.casino/play/real/egt-UltimateHot"
+    },
+    {
+      "image": "https://sol1.casino/images/games/netent/spacewars_not_mobile_sw.png",
+      "name": "Space Wars",
+      "href": "https://sol1.casino/play/real/netent-spacewars_not_mobile_sw"
+    }
+  ]
+}
