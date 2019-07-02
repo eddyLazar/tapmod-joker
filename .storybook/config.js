@@ -6,6 +6,7 @@ import { IconFont } from '../src/components/atoms/Icon';
 import { Box } from 'rebass';
 import 'normalize.css';
 import '../src/index.css';
+import '../src/components/atoms/Icon/iconfont.css';
 
 const req = require.context('../src/components', true, /\.stories\.js$/);
 
@@ -15,7 +16,7 @@ function loadStories() {
 
 addDecorator(storyFn => (
   <React.Fragment>
-    <IconFont></IconFont>
+    {/* <IconFont></IconFont> */}
     <ThemeProvider theme={theme}>{storyFn()}</ThemeProvider>
   </React.Fragment>
 ));
