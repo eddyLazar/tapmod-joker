@@ -2,7 +2,6 @@ import React from 'react';
 import { configure, addDecorator } from '@storybook/react';
 import { ThemeProvider } from 'styled-components';
 import theme from '../src/theme';
-import { IconFont } from '../src/components/atoms/Icon';
 import { Box } from 'rebass';
 import 'normalize.css';
 import '../src/index.css';
@@ -16,7 +15,6 @@ function loadStories() {
 
 addDecorator(storyFn => (
   <React.Fragment>
-    {/* <IconFont></IconFont> */}
     <ThemeProvider theme={theme}>{storyFn()}</ThemeProvider>
   </React.Fragment>
 ));

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Flex, Box, Text, Link } from 'rebass';
+import { Flex, Box } from 'rebass';
 import GamesList from 'components/organisms/GamesList';
 import GameCategoryList from 'components/organisms/GameCategoryList';
 import GameTypeSelect from 'components/organisms/GameTypeSelect';
