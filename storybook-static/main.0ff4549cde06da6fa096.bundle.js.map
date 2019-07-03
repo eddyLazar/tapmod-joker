@@ -1,1 +1,0 @@
-{"version":3,"file":"main.0ff4549cde06da6fa096.bundle.js","sources":["webpack:///./src/components/atoms/Icon/Icon.js"],"sourcesContent":["import React from 'react';\nimport { Text } from 'rebass';\n\nexport default ({ type = '', ...props }) => (\n  <Text {...props} className={`icon-${type}`}></Text>\n);\n"],"mappings":"AAGA","sourceRoot":""}
