@@ -19,7 +19,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "test:nowatch": "CI=true react-scripts test --env=jsdom",
+    "test:nowatch": "CI=true react-scripts test --env=jsdom --passWithNoTests",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 9009 -s public",
     "build-storybook": "build-storybook -s public",
@@ -64,6 +64,5 @@
     "lint-staged": "^8.2.1",
     "prettier": "^1.18.2",
     "react-test-renderer": "^16.8.6"
-  },
-  "homepage": "https://eddylazar.github.io/tapmod-joker"
+  }
 }

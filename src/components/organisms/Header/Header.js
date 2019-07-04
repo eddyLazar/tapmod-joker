@@ -1,7 +1,6 @@
 import React from 'react';
 import { Box, Flex } from 'rebass';
 import Logo from 'components/atoms/Logo';
-import ContentBox from 'components/atoms/ContentBox';
 import theme from 'theme';
 
 export default () => (

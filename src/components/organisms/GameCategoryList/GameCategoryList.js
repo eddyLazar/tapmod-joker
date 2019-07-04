@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Flex } from 'rebass';
 import Link from 'components/atoms/Link';
 import GameCategory from 'components/molecules/GameCategory';
 import Jackpot from 'components/organisms/Jackpot';
