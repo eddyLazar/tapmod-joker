@@ -1,3 +1,15 @@
-import React from 'react';
+import styled from 'styled-components';
+import theme from 'theme';
 
-export default () => <span>joker.poker</span>;
+const Logo = styled.div`
+  color: ${theme.colors.white};
+  font-size: ${theme.fontSizes[2]};
+  text-transform: uppercase;
+  font-weight: bold;
+`;
+
+Logo.defaultProps = {
+  children: 'Joker.Poker'
+};
+
+export default Logo;
