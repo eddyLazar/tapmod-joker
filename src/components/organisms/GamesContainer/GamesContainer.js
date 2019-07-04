@@ -6,16 +6,20 @@ import GameTypeSelect from 'components/organisms/GameTypeSelect';
 import data from 'data.json';
 import Dropdown from '../Dropdown';
 import NavBar from 'components/atoms/NavBar';
+import { useMedia } from 'the-platform';
+import theme from 'theme';
 
 export default () => {
   const [activeSubcategory, setActiveSubcategory] = useState();
+  const isSmall = useMedia({ maxWidth: theme.breakpoints[0] });
   return (
     <Flex flexWrap="wrap" flexDirection="column">
-      <Box mb={[60]}>
-        <GameCategoryList categoryList={data.categoryList} />
-      </Box>
-      <Flex alignItems="center" mb={[25]}>
-        <GameTypeSelect></GameTypeSelect>
+      <GameCategoryList categoryList={data.categoryList} />
+      <Box mb={[60]} />
+      <Flex alignItems="center" mb={[25]} flexWrap="wrap">
+        <Box width={[1, 'auto']}>
+          <GameTypeSelect></GameTypeSelect>
+        </Box>
         <Box mx="auto" />
         <NavBar>
           <NavBar.Link
@@ -37,7 +41,9 @@ export default () => {
             Новые
           </NavBar.Link>
         </NavBar>
-        <Dropdown size="large"></Dropdown>
+        <Box style={{ display: isSmall ? 'none' : 'initial' }}>
+          <Dropdown size="large"></Dropdown>
+        </Box>
       </Flex>
       <Box>
         <GamesList games={data.games} />

@@ -27,7 +27,7 @@ export default () => {
       ))}
       {isSmall && (
         <GameTypeCard>
-          <Dropdown />
+          <Dropdown size="large" />
         </GameTypeCard>
       )}
     </Flex>

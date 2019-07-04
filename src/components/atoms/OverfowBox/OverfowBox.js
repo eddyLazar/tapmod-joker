@@ -3,8 +3,9 @@ import { Box, Flex } from 'rebass';
 import styled from 'styled-components';
 
 const StyledBox = styled(Box)`
+  overflow-y: visible;
   overflow-x: scroll;
-  overflow-x: visible;
+  max-width: 100%;
 `;
 
 export default ({ children }) => (

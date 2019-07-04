@@ -22,6 +22,7 @@ const colors = {
   cardText: gray,
   categoryName: gray,
   page: darkgray,
+  layout: darkgray,
   modes: {
     orange: {
       text: '#fff',

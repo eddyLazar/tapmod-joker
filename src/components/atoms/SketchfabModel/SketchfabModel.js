@@ -15,7 +15,7 @@ const options = {
   ui_help: 0,
   ui_hint: 0,
   ui_watermark: 0,
-  transparent: 0,
+  transparent: 1,
   scrollwheel: 1,
   double_click: 1
 };
