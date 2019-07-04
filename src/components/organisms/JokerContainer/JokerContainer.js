@@ -4,14 +4,7 @@ import Spinner from 'components/molecules/Spinner';
 import ColorPicker from 'components/molecules/ColorPicker';
 import { useColorPicker } from './JokerContainer.hooks';
 
-const colors = [
-  '#ff00ff',
-  '#ffa500',
-  '#00ffff',
-  '#e55160',
-  'maroon',
-  '#00ff00'
-];
+const colors = ['#ff00ff', '#ffa500', '#00ffff', '#e55160', '#00ff00'];
 
 export default () => {
   const {
