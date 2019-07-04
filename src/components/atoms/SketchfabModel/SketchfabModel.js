@@ -3,11 +3,11 @@ import SketchfabWrapper from 'sketchfab-api-wrapper';
 
 const options = {
   camera: 0,
-  autostart: 1,
+  autostart: 0,
   autospin: 0,
   preload: 1,
   annotations_visible: 0,
-  animation_autoplay: 1,
+  animation_autoplay: 0,
   ui_infos: 0,
   ui_annotations: 0,
   ui_controls: 1,
@@ -23,7 +23,7 @@ const options = {
 
 export default ({
   uid = '',
-  onMaterialClick,
+  onClick,
   children = () => {},
   width = '100%',
   height = 500
@@ -43,12 +43,11 @@ export default ({
       const wrapper = await loadWrapperPromise.init();
 
       const api = { ...wrapper, ...wrapper.api };
-
-      api.addEventListener('click', function(event) {
-        if (onMaterialClick && event.material) {
-          onMaterialClick(event.material, api);
-        }
-      });
+      if (onClick) {
+        api.addEventListener('click', function(event) {
+          onClick(event, api);
+        });
+      }
 
       sketchFabApiRef.current = api;
 
@@ -57,11 +56,11 @@ export default ({
       setIsLoaded(false);
     };
     init();
-  }, [onMaterialClick, uid]);
+  }, [onClick, uid]);
 
   return (
     <div style={{ position: 'relative', width, height }}>
-      {children(isLoading)}
+      {children(isLoading, sketchFabApiRef.current)}
       <iframe
         title={uid}
         id={uid}

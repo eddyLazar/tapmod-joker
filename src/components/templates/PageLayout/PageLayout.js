@@ -8,7 +8,8 @@ export default ({ children }) => (
   <Flex flexDirection="column" alignItems="center" bg="layout">
     <Header />
     <Box mb={theme.headerHeight}></Box>
-    <ContentBox>{children}</ContentBox>
+    {/* <ContentBox></ContentBox> */}
+    {children}
     <ContentBox>Footer</ContentBox>
   </Flex>
 );

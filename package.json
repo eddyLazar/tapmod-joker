@@ -19,6 +19,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "test:nowatch": "CI=true react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 9009 -s public",
     "build-storybook": "build-storybook -s public",
@@ -46,6 +47,7 @@
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+      "npm run test:nowatch",
       "prettier --single-quote --write",
       "git add"
     ]
@@ -57,9 +59,11 @@
     "@storybook/addons": "^5.1.9",
     "@storybook/react": "^5.1.9",
     "@storybook/storybook-deployer": "^2.8.1",
+    "@testing-library/react-hooks": "^1.1.0",
     "husky": "^2.6.0",
     "lint-staged": "^8.2.1",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "react-test-renderer": "^16.8.6"
   },
   "homepage": "https://eddylazar.github.io/tapmod-joker"
 }
