@@ -1,34 +1,34 @@
 {
   "gameTypes": [
-    { "icon": "diamond", "name": "Игры с джекпотом" },
-    { "icon": "cup", "name": "Турнирные игры" },
+    { "icon": "diamond", "name": "Jackpot games" },
+    { "icon": "cup", "name": "Tournament games" },
     { "icon": "rm", "name": "Real money" }
   ],
   "categoryList": [
     {
       "href": "https://sol1.casino/game/slots",
       "icon": "slots-lg",
-      "name": "Слоты"
+      "name": "Slots"
     },
     {
       "href": "https://sol1.casino/game/live",
       "icon": "live-diller-lg",
-      "name": "Live дилеры"
+      "name": "Live dealers"
     },
     {
       "href": "https://sol1.casino/game/table",
       "icon": "dice-lg",
-      "name": "Настольные"
+      "name": "Table"
     },
     {
       "href": "https://sol1.casino/game/video_poker",
       "icon": "cards-lg",
-      "name": "Видеопокер"
+      "name": "Videpoker"
     },
     {
       "href": "https://sol1.casino/game/thematic",
       "icon": "collections-lg",
-      "name": "Коллекции"
+      "name": "Collections"
     }
   ],
   "games": [

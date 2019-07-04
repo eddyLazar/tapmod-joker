@@ -10,13 +10,14 @@ const options = {
   animation_autoplay: 1,
   ui_infos: 0,
   ui_annotations: 0,
-  ui_controls: 0,
+  ui_controls: 1,
   ui_stop: 0,
   ui_help: 0,
   ui_hint: 0,
+  ui_general_controls: 0,
   ui_watermark: 0,
   transparent: 1,
-  scrollwheel: 1,
+  scrollwheel: 0,
   double_click: 1
 };
 

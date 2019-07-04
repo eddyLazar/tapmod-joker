@@ -10,7 +10,7 @@ import { useMedia } from 'the-platform';
 import theme from 'theme';
 
 export default () => {
-  const [activeSubcategory, setActiveSubcategory] = useState();
+  const [activeSubcategory, setActiveSubcategory] = useState(1);
   const isSmall = useMedia({ maxWidth: theme.breakpoints[0] });
   return (
     <Flex flexWrap="wrap" flexDirection="column" px={[1, 0]}>
@@ -26,19 +26,19 @@ export default () => {
             isActive={1 === activeSubcategory}
             onClick={() => setActiveSubcategory(1)}
           >
-            Все
+            All
           </NavBar.Link>
           <NavBar.Link
             isActive={2 === activeSubcategory}
             onClick={() => setActiveSubcategory(2)}
           >
-            Популярные
+            Popular
           </NavBar.Link>
           <NavBar.Link
             isActive={3 === activeSubcategory}
             onClick={() => setActiveSubcategory(3)}
           >
-            Новые
+            New
           </NavBar.Link>
         </NavBar>
         <Box style={{ display: isSmall ? 'none' : 'initial' }}>
