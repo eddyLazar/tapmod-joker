@@ -2,11 +2,11 @@ import { Card as Base } from 'rebass';
 import styled from 'styled-components';
 import theme from 'theme';
 
-const hoverStyle = `
+const hoverStyle = theme.helpers.onMedium(`
   box-shadow: 0 6px 17px -7px ${theme.colors.primary};
   transform: translate3d(0, -5px, 0);
   cursor: pointer;
-`;
+`);
 
 const Card = styled(Base)`
   overflow: hidden;
@@ -14,7 +14,7 @@ const Card = styled(Base)`
   transition: ${theme.transition};
   cursor: ${({ withHover }) => (withHover ? 'pointer' : 'initial')};
   &:hover {
-    ${({ withHover = false }) => (withHover ? hoverStyle : '')};
+    ${({ withHover = false }) => (withHover ? hoverStyle : '')}
   }
 `;
 

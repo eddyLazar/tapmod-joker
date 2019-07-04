@@ -10,13 +10,11 @@ const hoverNestedStyle = `
 `;
 
 const GameCategoryCardBox = styled(Card)`
-  /* padding: 30px 10px 20px; */
   min-width: 80px;
 
   height: 80px;
-  @media screen and (min-width: ${theme.breakpoints[1]}) {
-    height: 130px;
-  }
+
+  ${theme.helpers.onMedium('height: 130px;')}
 
   display: flex;
   flex-direction: column;

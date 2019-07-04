@@ -6,6 +6,7 @@ const Logo = styled.div`
   font-size: ${theme.fontSizes[2]};
   text-transform: uppercase;
   font-weight: bold;
+  padding: 4px 8px;
 `;
 
 Logo.defaultProps = {

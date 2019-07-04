@@ -1,6 +1,8 @@
 // https://github.com/styled-system/styled-system/blob/master/docs/src/theme.js
 
 import colors from './colors';
+import breakpoints from './breakpoints';
+import { onSmallOnly, onMedium } from './helpers';
 
 const borderRadius = [25];
 
@@ -11,7 +13,7 @@ export default {
   transition,
   space,
   colors,
-  breakpoints: ['40em', '52em', '64em'],
+  breakpoints,
   fontSizes: [12, 14, 16, 20, 24, 32, 48, 64],
   buttons: {
     primary: {
@@ -32,5 +34,9 @@ export default {
     }
   },
   contentWidth: 1040,
-  headerHeight: 60
+  headerHeight: 60,
+  helpers: {
+    onSmallOnly,
+    onMedium
+  }
 };
