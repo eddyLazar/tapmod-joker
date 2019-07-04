@@ -17,7 +17,7 @@ export default () => {
       <GameCategoryList categoryList={data.categoryList} />
       <Box mb={[60]} />
       <Flex alignItems="center" mb={[25]} flexWrap="wrap">
-        <Box width={[1, 'auto']}>
+        <Box width={[1, 'auto']} mb={[20, 0]}>
           <GameTypeSelect></GameTypeSelect>
         </Box>
         <Box mx="auto" />

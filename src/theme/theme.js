@@ -35,6 +35,7 @@ export default {
   },
   contentWidth: 1040,
   headerHeight: 60,
+  colorRadius: 25,
   helpers: {
     onSmallOnly,
     onMedium

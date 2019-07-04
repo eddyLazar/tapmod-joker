@@ -57,7 +57,6 @@ export default ({
       setIsLoaded(false);
     };
     init();
-    console.log('from use effect');
   }, [onMaterialClick, uid]);
 
   return (
