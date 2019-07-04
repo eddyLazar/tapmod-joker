@@ -17,6 +17,14 @@ if [ $1 = "o" ]; then
     type='organisms'
 fi
 
+if [ $1 = "p" ]; then
+    type='pages'
+fi
+
+if [ $1 = "t" ]; then
+    type='templates'
+fi
+
 location="src/components/$type/$name"
 storiesLocation="$location/$name.stories.js"
 componentLocation="$location/$name.js"
