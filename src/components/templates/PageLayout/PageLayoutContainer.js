@@ -1,4 +1,3 @@
-import React from 'react';
 import styled from 'styled-components';
 import { Flex } from 'rebass';
 import theme from 'theme';
@@ -7,7 +6,7 @@ const PageLayoutContainer = styled(Flex)`
   background-image: url('https://sol1.casino/images/main-banner/cashback-bg.jpg');
   background-repeat: no-repeat;
   position: relative;
-  &::before {
+  /* &::before {
     content: '';
     display: 'block';
     background-image: url('https://sol1.casino/images/main-banner/bg-overlay.svg');
@@ -15,7 +14,10 @@ const PageLayoutContainer = styled(Flex)`
     position: absolute;
     width: 100%;
     height: 100%;
-  }
+    top: 0px;
+    left: ${theme.sidebarWidth};
+    z-index: -1px;
+  } */
 `;
 
 const Overlay = styled.div`

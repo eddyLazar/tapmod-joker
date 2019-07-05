@@ -23,6 +23,7 @@ const colors = {
   card: brown,
   cardText: gray,
   categoryName: gray,
+  footer: gray,
   page: darkgray,
   layout: darkgray,
   modes: {
