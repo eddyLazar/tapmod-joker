@@ -1,0 +1,5759 @@
+{
+  "tag": "div",
+  "class": "home-game-block__list js-gamefilter-games",
+  "data-rerender": "mainpage-game-list",
+  "data-event": "gameListChanges",
+  "data-template": "gamelist-home_tab",
+  "data-collection": "all",
+  "data-quantity": "120",
+  "children": [
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/netent-starburst_not_mobile_sw",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/netent/starburst_not_mobile_sw.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/netent-starburst_not_mobile_sw",
+              "class": "home-game-block__list-item-name",
+              "html": "Starburst"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/netent-starburst_not_mobile_sw",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/spinomenal-SummerSplash",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/spinomenal/SummerSplash.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/spinomenal-SummerSplash",
+              "class": "home-game-block__list-item-name",
+              "html": "Summer Splash"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/spinomenal-SummerSplash",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/netent-spacewars_not_mobile_sw",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/netent/spacewars_not_mobile_sw.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/netent-spacewars_not_mobile_sw",
+              "class": "home-game-block__list-item-name",
+              "html": "Space Wars"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/netent-spacewars_not_mobile_sw",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-UltimateHot",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/UltimateHot.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-UltimateHot",
+              "class": "home-game-block__list-item-name",
+              "html": "Ultimate Hot"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-UltimateHot",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-BookofDead",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/BookofDead.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-BookofDead",
+              "class": "home-game-block__list-item-name",
+              "html": "Book of Dead"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-BookofDead",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/amatic-BookOfAztec",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/amatic/BookOfAztec.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/amatic-BookOfAztec",
+              "class": "home-game-block__list-item-name",
+              "html": "Book Of Aztec"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/amatic-BookOfAztec",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/netent-jackandbeanstalk_not_mobile_sw",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/netent/jackandbeanstalk_not_mobile_sw.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                },
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/netent-jackandbeanstalk_not_mobile_sw",
+              "class": "home-game-block__list-item-name",
+              "html": "Jack and the Beanstalk"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/netent-jackandbeanstalk_not_mobile_sw",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/netent-deadoralive2_not_mobile_sw",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/netent/deadoralive2_not_mobile_sw.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/netent-deadoralive2_not_mobile_sw",
+              "class": "home-game-block__list-item-name",
+              "html": "Dead or Alive 2"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/netent-deadoralive2_not_mobile_sw",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item home-game-block__list-item--jackpot",
+      "data-diamond": "1",
+      "data-cup": "1",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-Holmes",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/Holmes.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__jackpot",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__jackpot-title",
+              "html": "Jackpot"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__jackpot-sum",
+              "children": [
+                {
+                  "tag": "span",
+                  "class": "home-game-block__jackpot-sum-cur",
+                  "html": "EUR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-diamond",
+                  "html": ""
+                },
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                },
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-Holmes",
+              "class": "home-game-block__list-item-name",
+              "html": "Holmes and the Stolen Stones"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-Holmes",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/netent-templeofnudges_not_mobile_sw",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/netent/templeofnudges_not_mobile_sw.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/netent-templeofnudges_not_mobile_sw",
+              "class": "home-game-block__list-item-name",
+              "html": "Temple of Nudges"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/netent-templeofnudges_not_mobile_sw",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/quickspin-SakuraFortune",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/quickspin/SakuraFortune.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/quickspin-SakuraFortune",
+              "class": "home-game-block__list-item-name",
+              "html": "Sakura Fortune"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/quickspin-SakuraFortune",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-FireJoker",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/FireJoker.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-FireJoker",
+              "class": "home-game-block__list-item-name",
+              "html": "Fire Joker"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-FireJoker",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/endorphina-endorphina2_2LuckyStreak",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/endorphina/endorphina2_2LuckyStreak.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/endorphina-endorphina2_2LuckyStreak",
+              "class": "home-game-block__list-item-name",
+              "html": "Lucky Streak 2"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/endorphina-endorphina2_2LuckyStreak",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-SupremeHot",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/SupremeHot.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-SupremeHot",
+              "class": "home-game-block__list-item-name",
+              "html": "Supreme Hot"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-SupremeHot",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-20SuperHot",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/20SuperHot.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-20SuperHot",
+              "class": "home-game-block__list-item-name",
+              "html": "20 Super Hot"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-20SuperHot",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item home-game-block__list-item--jackpot",
+      "data-diamond": "1",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-JackpotRaiders",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/JackpotRaiders.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__jackpot",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__jackpot-title",
+              "html": "Jackpot"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__jackpot-sum",
+              "children": [
+                {
+                  "tag": "span",
+                  "class": "home-game-block__jackpot-sum-cur",
+                  "html": "EUR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-diamond",
+                  "html": ""
+                },
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-JackpotRaiders",
+              "class": "home-game-block__list-item-name",
+              "html": "Jackpot Raiders"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-JackpotRaiders",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/amatic-WildShark",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/amatic/WildShark.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/amatic-WildShark",
+              "class": "home-game-block__list-item-name",
+              "html": "Wild Shark"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/amatic-WildShark",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/amatic-EnchantedCleopatra",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/amatic/EnchantedCleopatra.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/amatic-EnchantedCleopatra",
+              "class": "home-game-block__list-item-name",
+              "html": "Enchanted Cleopatra"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/amatic-EnchantedCleopatra",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/elk-EcuadorGold",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/elk/EcuadorGold.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/elk-EcuadorGold",
+              "class": "home-game-block__list-item-name",
+              "html": "Ecuador Gold"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/elk-EcuadorGold",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-Magellan",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/Magellan.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-Magellan",
+              "class": "home-game-block__list-item-name",
+              "html": "Magellan"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-Magellan",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/pragmatic-WolfGold",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/pragmatic/WolfGold.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/pragmatic-WolfGold",
+              "class": "home-game-block__list-item-name",
+              "html": "Wolf Gold"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/pragmatic-WolfGold",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-10BurningHeart",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/10BurningHeart.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-10BurningHeart",
+              "class": "home-game-block__list-item-name",
+              "html": "10 Burning Heart"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-10BurningHeart",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-100SuperHot",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/100SuperHot.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-100SuperHot",
+              "class": "home-game-block__list-item-name",
+              "html": "100 Super Hot"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-100SuperHot",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-Reactoonz_desktop",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/Reactoonz_desktop.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-Reactoonz_desktop",
+              "class": "home-game-block__list-item-name",
+              "html": "Reactoonz"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-Reactoonz_desktop",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/spinomenal-SirensTreasuresII15LinesSeries",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/spinomenal/SirensTreasuresII15LinesSeries.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/spinomenal-SirensTreasuresII15LinesSeries",
+              "class": "home-game-block__list-item-name",
+              "html": "Siren’s Treasures II 15 Lines Series"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/spinomenal-SirensTreasuresII15LinesSeries",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-BurningHot",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/BurningHot.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-BurningHot",
+              "class": "home-game-block__list-item-name",
+              "html": "Burning Hot"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-BurningHot",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-AmazonsBattle",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/AmazonsBattle.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-AmazonsBattle",
+              "class": "home-game-block__list-item-name",
+              "html": "Amazons' Battle"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-AmazonsBattle",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/belatra-TheMoneymania",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/belatra/TheMoneymania.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/belatra-TheMoneymania",
+              "class": "home-game-block__list-item-name",
+              "html": "The Moneymania"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/belatra-TheMoneymania",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-WildFalls",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/WildFalls.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-WildFalls",
+              "class": "home-game-block__list-item-name",
+              "html": "Wild Falls"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-WildFalls",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/pragmatic-5LionsGold",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/pragmatic/5LionsGold.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/pragmatic-5LionsGold",
+              "class": "home-game-block__list-item-name",
+              "html": "5 Lions Gold"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/pragmatic-5LionsGold",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/elk-TahitiGold",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/elk/TahitiGold.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/elk-TahitiGold",
+              "class": "home-game-block__list-item-name",
+              "html": "Tahiti Gold"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/elk-TahitiGold",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/pragmatic-ThreeGenieWishes",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/pragmatic/ThreeGenieWishes.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/pragmatic-ThreeGenieWishes",
+              "class": "home-game-block__list-item-name",
+              "html": "3 Genie Wishes"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/pragmatic-ThreeGenieWishes",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/quickspin-BigBadWolf",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/quickspin/BigBadWolf.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/quickspin-BigBadWolf",
+              "class": "home-game-block__list-item-name",
+              "html": "Big Bad Wolf"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/quickspin-BigBadWolf",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/softswiss-LuckyLadyClover",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/softswiss/LuckyLadyClover.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/softswiss-LuckyLadyClover",
+              "class": "home-game-block__list-item-name",
+              "html": "Lucky Lady's Clover"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/softswiss-LuckyLadyClover",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-DwarfMine",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/DwarfMine.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-DwarfMine",
+              "class": "home-game-block__list-item-name",
+              "html": "Dwarf Mine"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-DwarfMine",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/spinomenal-DemiGodsII15LinesSeries",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/spinomenal/DemiGodsII15LinesSeries.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/spinomenal-DemiGodsII15LinesSeries",
+              "class": "home-game-block__list-item-name",
+              "html": "Demi Gods II 15 Lines Series"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/spinomenal-DemiGodsII15LinesSeries",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-30SpicyFruits",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/30SpicyFruits.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-30SpicyFruits",
+              "class": "home-game-block__list-item-name",
+              "html": "30 Spicy Fruits"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-30SpicyFruits",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-EasterIsland",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/EasterIsland.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-EasterIsland",
+              "class": "home-game-block__list-item-name",
+              "html": "Easter Island"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-EasterIsland",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/endorphina-endorphina2_Voodoo",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/endorphina/endorphina2_Voodoo.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/endorphina-endorphina2_Voodoo",
+              "class": "home-game-block__list-item-name",
+              "html": "Voodoo"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/endorphina-endorphina2_Voodoo",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-ValleyOfTheGods",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/ValleyOfTheGods.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-ValleyOfTheGods",
+              "class": "home-game-block__list-item-name",
+              "html": "Valley Of The Gods"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-ValleyOfTheGods",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-LegacyofEgypt",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/LegacyofEgypt.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-LegacyofEgypt",
+              "class": "home-game-block__list-item-name",
+              "html": "Legacy of Egypt"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-LegacyofEgypt",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/amatic-LadyLuck",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/amatic/LadyLuck.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/amatic-LadyLuck",
+              "class": "home-game-block__list-item-name",
+              "html": "Lovely Lady"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/amatic-LadyLuck",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-5BurningHeart",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/5BurningHeart.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-5BurningHeart",
+              "class": "home-game-block__list-item-name",
+              "html": "5 Burning Heart"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-5BurningHeart",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/endorphina-endorphina2_1LuckyStreak",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/endorphina/endorphina2_1LuckyStreak.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/endorphina-endorphina2_1LuckyStreak",
+              "class": "home-game-block__list-item-name",
+              "html": "Lucky Streak 1"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/endorphina-endorphina2_1LuckyStreak",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/endorphina-endorphina2_AncientTroy",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/endorphina/endorphina2_AncientTroy.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/endorphina-endorphina2_AncientTroy",
+              "class": "home-game-block__list-item-name",
+              "html": "Ancient Troy"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/endorphina-endorphina2_AncientTroy",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-NiagaraFalls",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/NiagaraFalls.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-NiagaraFalls",
+              "class": "home-game-block__list-item-name",
+              "html": "Niagara Falls"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-NiagaraFalls",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-40SuperHot",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/40SuperHot.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-40SuperHot",
+              "class": "home-game-block__list-item-name",
+              "html": "40 Super Hot"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-40SuperHot",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-TomeofMadness",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/TomeofMadness.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-TomeofMadness",
+              "class": "home-game-block__list-item-name",
+              "html": "Rich Wilde and the Tome of Madness"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-TomeofMadness",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-WildRoboFactory",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/WildRoboFactory.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-WildRoboFactory",
+              "class": "home-game-block__list-item-name",
+              "html": "Wild Robo Factory"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-WildRoboFactory",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/isoftbet-WildApe",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/isoftbet/WildApe.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/isoftbet-WildApe",
+              "class": "home-game-block__list-item-name",
+              "html": "Wild Ape"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/isoftbet-WildApe",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-PhoenixReborn",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/PhoenixReborn.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-PhoenixReborn",
+              "class": "home-game-block__list-item-name",
+              "html": "Phoenix Reborn"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-PhoenixReborn",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/1x2gaming-3DRoulette2066",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/1x2gaming/3DRoulette2066.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/1x2gaming-3DRoulette2066",
+              "class": "home-game-block__list-item-name",
+              "html": "3D Roulette"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/1x2gaming-3DRoulette2066",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/belatra-LuckyDrinkOld",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/belatra/LuckyDrinkOld.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/belatra-LuckyDrinkOld",
+              "class": "home-game-block__list-item-name",
+              "html": "Lucky Drink"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/belatra-LuckyDrinkOld",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item home-game-block__list-item--jackpot",
+      "data-diamond": "1",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-DrFortuno",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/DrFortuno.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__jackpot",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__jackpot-title",
+              "html": "Jackpot"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__jackpot-sum",
+              "children": [
+                {
+                  "tag": "span",
+                  "class": "home-game-block__jackpot-sum-cur",
+                  "html": "EUR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-diamond",
+                  "html": ""
+                },
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-DrFortuno",
+              "class": "home-game-block__list-item-name",
+              "html": "Dr Fortuno"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-DrFortuno",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/amatic-LuckyZodiac",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/amatic/LuckyZodiac.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/amatic-LuckyZodiac",
+              "class": "home-game-block__list-item-name",
+              "html": "Lucky Zodiac"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/amatic-LuckyZodiac",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-CashVandal",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/CashVandal.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-CashVandal",
+              "class": "home-game-block__list-item-name",
+              "html": "Cash Vandal"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-CashVandal",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/endorphina-endorphina2_AlmightySparta",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/endorphina/endorphina2_AlmightySparta.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/endorphina-endorphina2_AlmightySparta",
+              "class": "home-game-block__list-item-name",
+              "html": "Almighty Sparta"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/endorphina-endorphina2_AlmightySparta",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-GameofGladiators",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/GameofGladiators.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-GameofGladiators",
+              "class": "home-game-block__list-item-name",
+              "html": "Game of Gladiators"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-GameofGladiators",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-BookOfMagic",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/BookOfMagic.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                },
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-BookOfMagic",
+              "class": "home-game-block__list-item-name",
+              "html": "Book of Magic"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-BookOfMagic",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/endorphina-endorphina_UndinesDeep",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/endorphina/endorphina_UndinesDeep.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/endorphina-endorphina_UndinesDeep",
+              "class": "home-game-block__list-item-name",
+              "html": "Undines's Deep"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/endorphina-endorphina_UndinesDeep",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/amatic-EyeOfRa",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/amatic/EyeOfRa.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/amatic-EyeOfRa",
+              "class": "home-game-block__list-item-name",
+              "html": "Eye Of Ra"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/amatic-EyeOfRa",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/quickspin-VolcanoRiches",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/quickspin/VolcanoRiches.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/quickspin-VolcanoRiches",
+              "class": "home-game-block__list-item-name",
+              "html": "Volcano Riches"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/quickspin-VolcanoRiches",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-OrientExpress",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/OrientExpress.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-OrientExpress",
+              "class": "home-game-block__list-item-name",
+              "html": "Orient Express"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-OrientExpress",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/quickfire-MGS_Playboy_FeatureSlot",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/quickfire/MGS_Playboy_FeatureSlot.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                },
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/quickfire-MGS_Playboy_FeatureSlot",
+              "class": "home-game-block__list-item-name",
+              "html": "Playboy"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/quickfire-MGS_Playboy_FeatureSlot",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-InfernoStar",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/InfernoStar.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-InfernoStar",
+              "class": "home-game-block__list-item-name",
+              "html": "Inferno Star"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-InfernoStar",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/amatic-GoldenBook",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/amatic/GoldenBook.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/amatic-GoldenBook",
+              "class": "home-game-block__list-item-name",
+              "html": "Golden Book"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/amatic-GoldenBook",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-LuckyHot",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/LuckyHot.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                },
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-LuckyHot",
+              "class": "home-game-block__list-item-name",
+              "html": "Lucky Hot"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-LuckyHot",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-GoldenFishtank",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/GoldenFishtank.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-GoldenFishtank",
+              "class": "home-game-block__list-item-name",
+              "html": "Golden Fishtank"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-GoldenFishtank",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-MoonPrincess",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/MoonPrincess.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-MoonPrincess",
+              "class": "home-game-block__list-item-name",
+              "html": "Moon Princess"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-MoonPrincess",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-20Diamonds",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/20Diamonds.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-20Diamonds",
+              "class": "home-game-block__list-item-name",
+              "html": "20 Diamonds"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-20Diamonds",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-ShiningCrown",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/ShiningCrown.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-ShiningCrown",
+              "class": "home-game-block__list-item-name",
+              "html": "Shining Crown"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-ShiningCrown",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-RiseofOlympus",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/RiseofOlympus.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-RiseofOlympus",
+              "class": "home-game-block__list-item-name",
+              "html": "Rise of Olympus"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-RiseofOlympus",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/amatic-Casanova",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/amatic/Casanova.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/amatic-Casanova",
+              "class": "home-game-block__list-item-name",
+              "html": "Casanova"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/amatic-Casanova",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-40BurningHot",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/40BurningHot.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-40BurningHot",
+              "class": "home-game-block__list-item-name",
+              "html": "40 Burning Hot"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-40BurningHot",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-GoldKing",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/GoldKing.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-GoldKing",
+              "class": "home-game-block__list-item-name",
+              "html": "Gold King"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-GoldKing",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-PerfectGems",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/PerfectGems.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-PerfectGems",
+              "class": "home-game-block__list-item-name",
+              "html": "Perfect Gems"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-PerfectGems",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/pragmatic-Beowulf",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/pragmatic/Beowulf.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/pragmatic-Beowulf",
+              "class": "home-game-block__list-item-name",
+              "html": "Beowulf"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/pragmatic-Beowulf",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-LuchaManiacs",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/LuchaManiacs.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-LuchaManiacs",
+              "class": "home-game-block__list-item-name",
+              "html": "Lucha Maniacs"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-LuchaManiacs",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-CazinoZeppelin",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/CazinoZeppelin.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-CazinoZeppelin",
+              "class": "home-game-block__list-item-name",
+              "html": "Cazino Zeppelin"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-CazinoZeppelin",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-GreatEgypt",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/GreatEgypt.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                },
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-GreatEgypt",
+              "class": "home-game-block__list-item-name",
+              "html": "The Great Egypt"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-GreatEgypt",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item home-game-block__list-item--jackpot",
+      "data-diamond": "1",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-OzwinsJackpots",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/OzwinsJackpots.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__jackpot",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__jackpot-title",
+              "html": "Jackpot"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__jackpot-sum",
+              "children": [
+                {
+                  "tag": "span",
+                  "class": "home-game-block__jackpot-sum-cur",
+                  "html": "EUR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-diamond",
+                  "html": ""
+                },
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-OzwinsJackpots",
+              "class": "home-game-block__list-item-name",
+              "html": "Ozwin’s Jackpots"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-OzwinsJackpots",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/amatic-CrystalFruits",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/amatic/CrystalFruits.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/amatic-CrystalFruits",
+              "class": "home-game-block__list-item-name",
+              "html": "Crystal Fruits"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/amatic-CrystalFruits",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-StoryOfAlexander",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/StoryOfAlexander.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-StoryOfAlexander",
+              "class": "home-game-block__list-item-name",
+              "html": "The Story of Alexander"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-StoryOfAlexander",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-Great27",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/Great27.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-Great27",
+              "class": "home-game-block__list-item-name",
+              "html": "Great 27"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-Great27",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/amatic-Billyonaire",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/amatic/Billyonaire.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/amatic-Billyonaire",
+              "class": "home-game-block__list-item-name",
+              "html": "Billyonaire"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/amatic-Billyonaire",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-Alchymedes",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/Alchymedes.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-Alchymedes",
+              "class": "home-game-block__list-item-name",
+              "html": "Alchymedes"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-Alchymedes",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/endorphina-endorphina2_MysteryEldorado",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/endorphina/endorphina2_MysteryEldorado.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__label home-game-block__label--new",
+          "html": "New"
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "a",
+              "href": "/play/real/endorphina-endorphina2_MysteryEldorado",
+              "class": "home-game-block__list-item-name",
+              "html": "The Mystery of Eldorado"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/endorphina-endorphina2_MysteryEldorado",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-ZodiacWheel",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/ZodiacWheel.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                },
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-ZodiacWheel",
+              "class": "home-game-block__list-item-name",
+              "html": "Zodiac Wheel"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-ZodiacWheel",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/egt-100BurningHot",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/egt/100BurningHot.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/egt-100BurningHot",
+              "class": "home-game-block__list-item-name",
+              "html": "100 Burning Hot"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/egt-100BurningHot",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-cup": "1",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-Pimped",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/Pimped.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-cup",
+                  "html": ""
+                },
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-Pimped",
+              "class": "home-game-block__list-item-name",
+              "html": "Pimped"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-Pimped",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/playngo-Hugo2",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/playngo/Hugo2.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/playngo-Hugo2",
+              "class": "home-game-block__list-item-name",
+              "html": "Hugo 2"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/playngo-Hugo2",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "class": "home-game-block__list-item",
+      "data-rm": "1",
+      "children": [
+        {
+          "tag": "a",
+          "href": "/play/real/yggdrasil-CazinoCosmos",
+          "class": "home-game-block__list-item-img",
+          "style": "background-image: url('/images/games/yggdrasil/CazinoCosmos.png');",
+          "html": " "
+        },
+        {
+          "tag": "div",
+          "class": "home-game-block__list-item-footer",
+          "children": [
+            {
+              "tag": "div",
+              "class": "home-game-block__stickers",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__sticker icon-rm",
+                  "html": ""
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "href": "/play/real/yggdrasil-CazinoCosmos",
+              "class": "home-game-block__list-item-name",
+              "html": "Cazino Cosmos"
+            },
+            {
+              "tag": "div",
+              "class": "home-game-block__list-item-more icon-more-vert js-home-game-block__list-item-more",
+              "children": [
+                {
+                  "tag": "div",
+                  "class": "home-game-block__game-popup",
+                  "children": [
+                    {
+                      "tag": "a",
+                      "href": "/play/fun/yggdrasil-CazinoCosmos",
+                      "class": "home-game-block__game-popup-item js-home-game-block__game-popup-item",
+                      "children": [
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-ic icon-eye",
+                          "html": ""
+                        },
+                        {
+                          "tag": "span",
+                          "class": "home-game-block__game-popup-text",
+                          "html": "Демо игра"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
