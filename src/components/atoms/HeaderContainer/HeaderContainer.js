@@ -5,11 +5,11 @@ import theme from 'theme';
 const HeaderContainer = styled(Flex)`
   background-color: ${theme.colors.card};
   height: 60;
-  width: 100%;
+  width: calc(100% - ${theme.sidebarWidth}px);
   position: fixed;
   z-index: 9999;
   top: 0;
-  left: 0;
+  left: ${theme.sidebarWidth}px;
 `;
 
 HeaderContainer.defaultProps = {
