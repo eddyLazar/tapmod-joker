@@ -17,7 +17,6 @@ export default () => {
   } = useColorPicker();
 
   const wrapperRef = useRef(null);
-  // useOutsideAlerter(wrapperRef);
 
   useOutsideClick(wrapperRef, clearPickerPosition);
 

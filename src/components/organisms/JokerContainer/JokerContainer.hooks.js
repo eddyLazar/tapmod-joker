@@ -1,5 +1,19 @@
 import { useState, useCallback, useRef, useEffect } from 'react';
 
+const materialsWithColorPicker = [
+  'color_01',
+  'color_02',
+  'color_04',
+  'color_06',
+  'color_09',
+  'color_10',
+  'color_11',
+  'color_12',
+  'color_15',
+  'color_16',
+  'color_17'
+];
+
 export const useColorPicker = () => {
   const [pickerPosition, setPosition] = useState();
   const [materialName, setMaterialName] = useState();
@@ -7,7 +21,7 @@ export const useColorPicker = () => {
 
   const handleCanvasClick = useCallback(({ position2D, material }, api) => {
     apiRef.current = api;
-    if (material) {
+    if (material && materialsWithColorPicker.indexOf(material.name) !== -1) {
       setMaterialName(material.name);
       setPosition(position2D);
     }
