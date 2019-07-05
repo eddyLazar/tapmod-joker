@@ -32,7 +32,7 @@ export default () => {
             isActive={2 === activeSubcategory}
             onClick={() => setActiveSubcategory(2)}
           >
-            Popular
+            Популярные
           </NavBar.Link>
           <NavBar.Link
             isActive={3 === activeSubcategory}

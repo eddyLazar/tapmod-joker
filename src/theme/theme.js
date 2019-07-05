@@ -34,6 +34,8 @@ export default {
   },
   contentWidth: 1040,
   headerHeight: 60,
+  headerZindex: 9998,
+  sidebarWidth: 80,
   colorRadius: 25,
   helpers: {
     onSmallOnly,

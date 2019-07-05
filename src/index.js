@@ -5,6 +5,7 @@ import * as serviceWorker from './serviceWorker';
 import 'babel-polyfill';
 import './index.css';
 import 'components/atoms/Icon/iconfont.css';
+import 'normalize.css';
 
 ReactDOM.render(
   <React.StrictMode>
