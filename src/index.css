@@ -11,6 +11,14 @@
   font-weight: bold;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('./fonts/ProximaNova-Black.woff?v=1.1.0') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
 /*
 @font-face {
   font-family: 'ProximaNova';

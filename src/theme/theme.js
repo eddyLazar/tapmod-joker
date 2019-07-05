@@ -37,6 +37,7 @@ export default {
   headerZindex: 9998,
   sidebarWidth: 80,
   colorRadius: 25,
+  jokerHeight: 600,
   helpers: {
     onSmallOnly,
     onMedium

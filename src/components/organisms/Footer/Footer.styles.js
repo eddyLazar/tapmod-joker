@@ -20,4 +20,9 @@ export const FooterTitle = styled(Text)`
   margin-bottom: 30px;
 `;
 
-export const FooterCopyright = styled(Text)``;
+export const FooterCopyright = styled(Text)`
+  font-size: 15px;
+  line-height: 1;
+  color: #51453a;
+  letter-spacing: -0.1px;
+`;
