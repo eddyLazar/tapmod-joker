@@ -6,19 +6,20 @@ import JokerText from 'components/molecules/JokerText';
 import { useColorPicker, useOutsideClick } from './JokerContainer.hooks';
 import theme from 'theme';
 
-const colors = ['#ff00ff', '#ffa500', '#00ffff', '#e55160', '#00ff00'];
-
 export default () => {
   const {
     pickerPosition,
     handleCanvasClick,
     handleColorClick,
-    clearPickerPosition
+    clearPickerPosition,
+    materialColor
   } = useColorPicker();
 
   const wrapperRef = useRef(null);
 
   useOutsideClick(wrapperRef, clearPickerPosition);
+
+  console.log(materialColor);
 
   return (
     <div ref={wrapperRef}>
@@ -29,14 +30,17 @@ export default () => {
       >
         {(isLoading, api) => {
           let colorPicker = null;
-          if (pickerPosition) {
+          if (pickerPosition && materialColor) {
             const offsetX = pickerPosition[0];
             const offsetY = pickerPosition[1];
             colorPicker = (
               <div
                 style={{ position: 'absolute', left: offsetX, top: offsetY }}
               >
-                <ColorPicker colors={colors} onChange={handleColorClick} />
+                <ColorPicker
+                  albedoColor={materialColor}
+                  onChange={handleColorClick}
+                />
               </div>
             );
           }

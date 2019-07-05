@@ -36,7 +36,7 @@ export default {
   headerHeight: 60,
   headerZindex: 9998,
   sidebarWidth: 80,
-  colorRadius: 25,
+  colorRadius: 14,
   jokerHeight: 600,
   helpers: {
     onSmallOnly,
