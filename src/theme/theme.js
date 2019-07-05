@@ -19,7 +19,6 @@ export default {
     primary: {
       paddingTop: space[3],
       paddingBottom: space[3],
-      width: 270,
       borderRadius: borderRadius[0],
       color: colors.modes.orange.text,
       backgroundColor: colors.modes.orange.primary,

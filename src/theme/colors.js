@@ -7,6 +7,7 @@ const gray = '#b0a499';
 const yellow = '#e0e400';
 
 const colors = {
+  iconButton: '#9b9084',
   gameTypeIcon: yellow,
   white: '#fff',
   red: '#bf3d2d',

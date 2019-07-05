@@ -3,7 +3,6 @@ import { storiesOf } from '@storybook/react';
 import GameCategoryIcon from './GameCategoryIcon';
 import GameCategoryCard from './GameCategoryCard';
 import GameCategoryName from './GameCategoryName';
-import { Text } from 'rebass';
 
 storiesOf('molecules|GameCategory/Card', module)
   .add('basic', () => (

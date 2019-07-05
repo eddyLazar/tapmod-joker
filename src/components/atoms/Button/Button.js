@@ -1,9 +1,9 @@
 import React from 'react';
 import { Button as BaseButton } from 'rebass';
 import styled from 'styled-components';
-import theme from '../../../theme';
+import theme from 'theme';
 
-const Button = ({ children, type = 'default', ...props }) => (
+const Button = ({ children, type = 'primary', ...props }) => (
   <BaseButton fontSize={2} variant={type} {...props}>
     {children}
   </BaseButton>

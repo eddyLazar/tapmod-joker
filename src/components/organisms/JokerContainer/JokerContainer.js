@@ -20,8 +20,6 @@ export default () => {
       onClick={handleCanvasClick}
     >
       {(isLoading, api) => {
-        console.log(api);
-
         if (isLoading) {
           return <Spinner />;
         }
