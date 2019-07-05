@@ -26,7 +26,8 @@ export default ({
   onClick,
   children = () => {},
   width = '100%',
-  height = 500
+  height = 500,
+  ...props
 }) => {
   const [isLoading, setIsLoaded] = useState(true);
 

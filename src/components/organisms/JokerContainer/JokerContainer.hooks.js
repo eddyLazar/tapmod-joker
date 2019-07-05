@@ -1,4 +1,4 @@
-import { useState, useCallback, useRef } from 'react';
+import { useState, useCallback, useRef, useEffect } from 'react';
 
 export const useColorPicker = () => {
   const [pickerPosition, setPosition] = useState();
@@ -25,5 +25,28 @@ export const useColorPicker = () => {
     }
   };
 
-  return { pickerPosition, handleCanvasClick, materialName, handleColorClick };
+  const clearPickerPosition = () => setPosition(undefined);
+
+  return {
+    pickerPosition,
+    handleCanvasClick,
+    materialName,
+    handleColorClick,
+    clearPickerPosition
+  };
+};
+
+export const useOutsideClick = (ref, handleClick) => {
+  function handleClickOutside(event) {
+    if (ref.current && !ref.current.contains(event.target)) {
+      handleClick(event);
+    }
+  }
+
+  useEffect(() => {
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  });
 };
