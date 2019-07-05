@@ -1,7 +1,7 @@
 import Button from 'components/atoms/Button';
 import styled from 'styled-components';
 
-export default styled(Button)`
+const HeaderButton = styled(Button)`
   height: 100%;
   border-radius: 0px;
   font-weight: normal;
@@ -15,3 +15,9 @@ export default styled(Button)`
     }
   }
 `;
+
+HeaderButton.defaultProps = {
+  type: 'primary'
+};
+
+export default HeaderButton;
