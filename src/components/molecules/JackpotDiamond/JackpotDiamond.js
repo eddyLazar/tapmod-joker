@@ -11,6 +11,7 @@ const JackpotDiamondIcon = styled(Icon)`
   letter-spacing: -4px;
   color: rgba(240, 146, 53, 0.31);
   font-size: 90px;
+  z-index: 0;
 `;
 
 JackpotDiamondIcon.defaultProps = {

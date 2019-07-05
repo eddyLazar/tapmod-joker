@@ -12,6 +12,7 @@ const MenuToggleButton = styled(Button)`
   color: ${theme.colors.white};
   border-radius: 0px;
   margin-bottom: 25px;
+  box-shadow: 0 7px 14px 0 rgba(240, 146, 53, 0.39);
 `;
 
 MenuToggleButton.defaultProps = {
