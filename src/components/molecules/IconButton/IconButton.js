@@ -25,8 +25,8 @@ const StyledLink = styled(Link)`
   }
 `;
 
-export default ({ type = '' }) => (
-  <StyledLink>
+export default ({ type = '', ...props }) => (
+  <StyledLink {...props}>
     <Icon type={type} color="iconButton"></Icon>
   </StyledLink>
 );

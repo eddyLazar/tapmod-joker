@@ -1,4 +1,3 @@
-import React from 'react';
 import IconButton from 'components/molecules/IconButton';
 import styled from 'styled-components';
 
