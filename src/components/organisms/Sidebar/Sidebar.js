@@ -13,6 +13,7 @@ export default () => {
       <MenuToggleButton />
       {links.map(icon => (
         <SidebarButton
+          key={icon}
           isActive={activeLink === icon}
           type={icon}
           width={`${theme.sidebarWidth}px`}
