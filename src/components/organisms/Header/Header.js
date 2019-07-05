@@ -19,7 +19,7 @@ export default () => (
       <IconButton type="search"></IconButton>
 
       <HeaderButton>
-        <Icon type="user" /> sign up
+        <Icon type="user" /> Sign up
       </HeaderButton>
       <IconButton type="signin"></IconButton>
     </Flex>

@@ -3,6 +3,7 @@ import SketchfabModel from 'components/atoms/SketchfabModel';
 import Spinner from 'components/molecules/Spinner';
 import ColorPicker from 'components/molecules/ColorPicker';
 import { useColorPicker } from './JokerContainer.hooks';
+import theme from 'theme';
 
 const colors = ['#ff00ff', '#ffa500', '#00ffff', '#e55160', '#00ff00'];
 
@@ -16,7 +17,7 @@ export default () => {
   return (
     <SketchfabModel
       uid={process.env.REACT_APP_MODEL_UID}
-      height={700}
+      height={theme.jokerHeight}
       onClick={handleCanvasClick}
     >
       {(isLoading, api) => {
