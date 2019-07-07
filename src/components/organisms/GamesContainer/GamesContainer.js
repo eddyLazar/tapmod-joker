@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Flex, Box } from 'rebass';
 import GamesList from 'components/organisms/GamesList';
-import GameCategoryList from 'components/organisms/GameCategoryList';
 import GameTypeSelect from 'components/organisms/GameTypeSelect';
 import data from 'data.json';
 import Dropdown from '../Dropdown';
@@ -14,7 +13,6 @@ export default () => {
   const isSmall = useMedia({ maxWidth: theme.breakpoints[0] });
   return (
     <Flex flexWrap="wrap" flexDirection="column" px={[1, 0]}>
-      <GameCategoryList categoryList={data.categoryList} />
       <Box mb={[60]} />
       <Flex alignItems="center" mb={[25]} flexWrap="wrap">
         <Box width={[1, 'auto']} mb={[20, 0]}>

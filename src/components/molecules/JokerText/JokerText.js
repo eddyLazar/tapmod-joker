@@ -12,10 +12,10 @@ const ColoredText = styled.span`
 
 export default props => (
   <JokerTextWrapper {...props}>
-    <Title color="primary" fontSize={[21, 50]} fontWeight={900} mb={30}>
+    <Title color="primary" fontSize={[24, 50]} fontWeight={900} mb={[16, 30]}>
       Cashback
     </Title>
-    <Text fontWight="bold" fontSize={[12, 24]} mb={16} fontWeight="bold">
+    <Text fontWight="bold" fontSize={[16, 24]} mb={16} fontWeight="bold">
       <ColoredText>Every Friday</ColoredText> get <ColoredText>10%</ColoredText>{' '}
       <br></br>
       of your money back

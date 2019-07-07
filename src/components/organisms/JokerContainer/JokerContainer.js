@@ -5,6 +5,9 @@ import ColorPicker from 'components/molecules/ColorPicker';
 import JokerText from 'components/molecules/JokerText';
 import { useColorPicker, useOutsideClick } from './JokerContainer.hooks';
 import theme from 'theme';
+import GameCategoryList from 'components/organisms/GameCategoryList';
+import data from 'data.json';
+import { Box } from 'rebass';
 
 export default () => {
   const {
@@ -47,6 +50,18 @@ export default () => {
               {colorPicker}
               {isLoading && <Spinner />}
               <JokerText />
+              <Box
+                width="100%"
+                px={[1, 0]}
+                pb={1}
+                style={{
+                  position: 'absolute',
+                  bottom: 0,
+                  overflowX: 'scroll'
+                }}
+              >
+                <GameCategoryList categoryList={data.categoryList} />
+              </Box>
             </React.Fragment>
           );
         }}

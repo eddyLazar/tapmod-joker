@@ -26,18 +26,14 @@ export default {
         backgroundColor: colors.modes.orange.secondary
       }
     },
-    outline: {
-      // color: blue,
-      // backgroundColor: 'transparent',
-      // boxShadow: 'inset 0 0 0 2px'
-    }
+    outline: {}
   },
   contentWidth: 1040,
   headerZindex: 9998,
   headerHeight: [50, 60],
   sidebarWidth: [50, 80],
   colorRadius: 14,
-  jokerHeight: 600,
+  jokerHeight: 700,
   helpers: {
     onSmallOnly,
     onMedium
