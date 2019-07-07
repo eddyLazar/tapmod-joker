@@ -8,13 +8,17 @@ const SidebarContainer = styled(Flex)`
   position: fixed;
   left: 0px;
   top: 0px;
-  height: '100%';
-  width: ${theme.sidebarWidth}px;
   flex-direction: column;
+  height: '100%';
+  display: none;
+  ${theme.helpers.onMedium(`
+    display: flex;
+  `)}
 `;
 
 SidebarContainer.defaultProps = {
-  bg: 'sidebar'
+  bg: 'sidebar',
+  width: theme.sidebarWidth
 };
 
 export default SidebarContainer;

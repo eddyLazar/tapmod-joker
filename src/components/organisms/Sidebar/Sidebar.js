@@ -8,6 +8,7 @@ const links = ['joystick', 'gift', 'calendar', 'help'];
 
 export default () => {
   const [activeLink, setActiveLink] = useState();
+
   return (
     <SidebarContainer>
       <MenuToggleButton />
@@ -16,8 +17,8 @@ export default () => {
           key={icon}
           isActive={activeLink === icon}
           type={icon}
-          width={`${theme.sidebarWidth}px`}
-          height={`${theme.sidebarWidth}px`}
+          width={`${theme.sidebarWidth[1]}px`}
+          height={`${theme.sidebarWidth[1]}px`}
           onClick={() => setActiveLink(icon)}
         />
       ))}

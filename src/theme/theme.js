@@ -33,9 +33,9 @@ export default {
     }
   },
   contentWidth: 1040,
-  headerHeight: 60,
   headerZindex: 9998,
-  sidebarWidth: 80,
+  headerHeight: [50, 60],
+  sidebarWidth: [50, 80],
   colorRadius: 14,
   jokerHeight: 600,
   helpers: {

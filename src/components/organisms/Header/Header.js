@@ -6,22 +6,28 @@ import HeaderButton from 'components/molecules/HeaderButton';
 import HeaderContainer from 'components/atoms/HeaderContainer';
 import Icon from 'components/atoms/Icon';
 import IconButton from 'components/molecules/IconButton';
+import ContentBox from 'components/atoms/ContentBox';
+import useBreakpoints from 'common/hooks/useBreakpoints';
 
-export default () => (
-  <HeaderContainer>
-    <Flex
-      width="100%"
-      style={{ maxWidth: theme.contentWidth }}
-      alignItems="center"
-    >
-      <Logo />
-      <Box mx="auto" />
-      <IconButton type="search"></IconButton>
+export default () => {
+  const { isMedium } = useBreakpoints();
 
-      <HeaderButton>
-        <Icon type="user" /> Sign up
-      </HeaderButton>
-      <IconButton type="signin"></IconButton>
-    </Flex>
-  </HeaderContainer>
-);
+  return (
+    <HeaderContainer>
+      <Box width={theme.sidebarWidth}></Box>
+      <Flex width="100%" height="100%" justifyContent="space-around">
+        <ContentBox flexDirection="row">
+          <Logo />
+          <Box mx="auto" />
+          {isMedium && <IconButton type="search"></IconButton>}
+          <HeaderButton>
+            <Icon type="user" /> Sign up
+          </HeaderButton>
+          <Box width={theme.headerHeight}>
+            <IconButton type="signin" width="100%" height="100%" />
+          </Box>
+        </ContentBox>
+      </Flex>
+    </HeaderContainer>
+  );
+};

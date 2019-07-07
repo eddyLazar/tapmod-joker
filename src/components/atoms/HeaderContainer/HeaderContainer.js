@@ -4,16 +4,14 @@ import theme from 'theme';
 
 const HeaderContainer = styled(Flex)`
   background-color: ${theme.colors.card};
-  height: 60;
-  width: calc(100% - ${theme.sidebarWidth}px);
+  width: 100%;
   position: fixed;
   z-index: 9999;
   top: 0;
-  left: ${theme.sidebarWidth}px;
+  height: ${theme.headerHeight[0]}px;
+  ${theme.helpers.onMedium(`
+    height: ${theme.headerHeight[1]}px;
+  `)}
 `;
-
-HeaderContainer.defaultProps = {
-  justifyContent: 'space-around'
-};
 
 export default HeaderContainer;
