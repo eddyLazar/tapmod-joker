@@ -8,13 +8,14 @@ import Icon from 'components/atoms/Icon';
 import IconButton from 'components/molecules/IconButton';
 import ContentBox from 'components/atoms/ContentBox';
 import useBreakpoints from 'common/hooks/useBreakpoints';
+import MenuToggleButton from 'components/organisms/Sidebar/MenuToggleButton';
 
 export default () => {
-  const { isMedium } = useBreakpoints();
+  const { isMedium, isSmall } = useBreakpoints();
 
   return (
     <HeaderContainer>
-      <Box width={theme.sidebarWidth}></Box>
+      <Box width={theme.sidebarWidth}>{isSmall && <MenuToggleButton />}</Box>
       <Flex width="100%" height="100%" justifyContent="space-around">
         <ContentBox flexDirection="row">
           <Logo />
