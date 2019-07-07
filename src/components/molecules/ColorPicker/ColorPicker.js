@@ -6,11 +6,8 @@ import { getColorPalette, albedoToHex } from './utils';
 
 export default ({ albedoColor, onChange }) => {
   const hexColor = albedoToHex(albedoColor);
-  console.log(hexColor);
 
   const colors = getColorPalette(hexColor);
-
-  console.log(colors);
 
   return (
     <Flex

@@ -6,7 +6,7 @@ import ContentBox from 'components/atoms/ContentBox';
 
 export default () => (
   <PageLayout>
-    <ContentBox px={[1, 0]}>
+    <ContentBox>
       <JokerContainer />
       <GamesContainer />
     </ContentBox>

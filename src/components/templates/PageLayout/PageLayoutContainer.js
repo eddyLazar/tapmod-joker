@@ -21,9 +21,9 @@ PageLayoutContainer.defaultProps = {
   flexDirection: 'column',
   alignItems: 'center',
   bg: 'layout',
-  width: [1, `calc(100% - ${theme.sidebarWidth}px)`],
-  ml: [0, theme.sidebarWidth],
-  mt: theme.headerHeight
+  ml: [0, theme.sidebarWidth[1]],
+  mt: theme.headerHeight,
+  width: [1, `calc(100% - ${theme.sidebarWidth[1]}px)`]
 };
 
 export default PageLayoutContainer;

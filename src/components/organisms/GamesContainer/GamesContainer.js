@@ -13,7 +13,7 @@ export default () => {
   const [activeSubcategory, setActiveSubcategory] = useState(1);
   const isSmall = useMedia({ maxWidth: theme.breakpoints[0] });
   return (
-    <Flex flexWrap="wrap" flexDirection="column">
+    <Flex flexWrap="wrap" flexDirection="column" px={[1, 0]}>
       <GameCategoryList categoryList={data.categoryList} />
       <Box mb={[60]} />
       <Flex alignItems="center" mb={[25]} flexWrap="wrap">

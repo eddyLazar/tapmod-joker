@@ -20,5 +20,3 @@ games.children.map(({ children: [{ href, style }, { children }] }) => {
     }
   }
 });
-
-console.log(JSON.stringify(gameList));

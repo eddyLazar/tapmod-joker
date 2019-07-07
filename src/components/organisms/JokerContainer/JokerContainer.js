@@ -19,8 +19,6 @@ export default () => {
 
   useOutsideClick(wrapperRef, clearPickerPosition);
 
-  console.log(materialColor);
-
   return (
     <div ref={wrapperRef}>
       <SketchfabModel
@@ -48,13 +46,7 @@ export default () => {
             <React.Fragment>
               {colorPicker}
               {isLoading && <Spinner />}
-              <JokerText
-                style={{
-                  position: 'absolute',
-                  top: theme.jokerHeight / 2,
-                  zIndex: 1
-                }}
-              />
+              <JokerText />
             </React.Fragment>
           );
         }}

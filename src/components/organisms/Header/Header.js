@@ -11,11 +11,13 @@ import useBreakpoints from 'common/hooks/useBreakpoints';
 import MenuToggleButton from 'components/organisms/Sidebar/MenuToggleButton';
 
 export default () => {
-  const { isMedium, isSmall } = useBreakpoints();
+  const { isMedium } = useBreakpoints();
 
   return (
     <HeaderContainer>
-      <Box width={theme.sidebarWidth}>{isSmall && <MenuToggleButton />}</Box>
+      <Box mr={[0, theme.sidebarWidth[1]]}>
+        {!isMedium && <MenuToggleButton />}
+      </Box>
       <Flex width="100%" height="100%" justifyContent="space-around">
         <ContentBox flexDirection="row">
           <Logo />
