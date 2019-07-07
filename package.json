@@ -26,7 +26,7 @@
     "storybook": "start-storybook -p 9009 -s public",
     "build-storybook": "build-storybook -s public",
     "deploy-storybook": "storybook-to-ghpages",
-    "lint": "eslint src"
+    "lint": "eslint src/*/**.js"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -50,7 +50,6 @@
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
-      "npm run lint",
       "npm run test:nowatch",
       "prettier --single-quote --write",
       "git add"
