@@ -27,7 +27,10 @@ export default () => {
       ))}
       {isSmall && (
         <GameTypeCard>
-          <Dropdown size="large" />
+          <Dropdown
+            size="large"
+            style={{ height: '100%', backgroundColor: theme.colors.card }}
+          />
         </GameTypeCard>
       )}
     </Flex>

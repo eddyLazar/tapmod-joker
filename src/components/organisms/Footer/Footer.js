@@ -6,7 +6,7 @@ import { FooterTitle, FooterLink, FooterCopyright } from './Footer.styles';
 export default () => (
   <Box>
     <Flex>
-      <Logo />
+      <Logo style={{ alignItems: 'flex-start' }} />
       <Flex justifyContent="space-around" width="100%">
         <Box>
           <FooterTitle>User information</FooterTitle>
