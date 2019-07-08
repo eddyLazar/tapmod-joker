@@ -4,10 +4,14 @@ import { Flex, Box } from 'rebass';
 import { FooterTitle, FooterLink, FooterCopyright } from './Footer.styles';
 
 export default () => (
-  <Box>
-    <Flex>
-      <Logo style={{ alignItems: 'flex-start' }} />
-      <Flex justifyContent="space-around" width="100%">
+  <Box px={[2, 0]}>
+    <Flex flexWrap="wrap">
+      <Logo style={{ alignItems: 'flex-start' }} mb={[3, 0]} />
+      <Flex
+        px={[2, 0]}
+        justifyContent={['flex-start', 'space-around']}
+        width="100%"
+      >
         <Box>
           <FooterTitle>User information</FooterTitle>
           <Flex>
@@ -26,6 +30,6 @@ export default () => (
         </Box>
       </Flex>
     </Flex>
-    <FooterCopyright>© 2018-2019 Joker.Poker</FooterCopyright>
+    <FooterCopyright px={[2, 0]}>© 2018-2019 Joker.Poker</FooterCopyright>
   </Box>
 );

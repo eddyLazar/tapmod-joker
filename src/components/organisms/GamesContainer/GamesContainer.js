@@ -39,7 +39,7 @@ export default () => {
             New
           </NavBar.Link>
         </NavBar>
-        <Box style={{ display: isSmall ? 'none' : 'initial' }}>
+        <Box style={{ display: isSmall ? 'none' : 'initial', zIndex: 1 }}>
           <Dropdown size="large"></Dropdown>
         </Box>
       </Flex>
