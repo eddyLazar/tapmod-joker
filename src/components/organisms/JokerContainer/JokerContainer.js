@@ -56,7 +56,8 @@ export default () => {
                 py={2}
                 style={{
                   position: 'absolute',
-                  bottom: 0
+                  bottom: 0,
+                  zIndex: 1
                 }}
               >
                 <GameCategoryList categoryList={data.categoryList} />

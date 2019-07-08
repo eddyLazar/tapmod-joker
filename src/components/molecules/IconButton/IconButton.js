@@ -17,11 +17,14 @@ const StyledLink = styled(Link)`
   [class*=' icon-'] {
     transition: ${theme.transition};
   }
+
   &:hover {
-    [class^='icon-'],
-    [class*=' icon-'] {
-      color: ${theme.colors.primary};
-    }
+    ${theme.helpers.onMedium(`
+      [class^='icon-'],
+      [class*=' icon-'] {
+        color: ${theme.colors.primary};
+      }
+    `)}
   }
 `;
 
