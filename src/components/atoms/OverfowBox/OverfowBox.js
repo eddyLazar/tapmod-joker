@@ -12,8 +12,14 @@ const StyledBox = styled(Box)`
   `)}
 `;
 
+const StyledFlex = styled(Flex)`
+  ${theme.helpers.onSmallOnly(`
+    overflow-x: scroll;
+  `)}
+`;
+
 export default ({ children }) => (
   <StyledBox>
-    <Flex>{children}</Flex>
+    <StyledFlex>{children}</StyledFlex>
   </StyledBox>
 );

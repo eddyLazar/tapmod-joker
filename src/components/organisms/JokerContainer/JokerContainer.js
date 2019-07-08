@@ -56,8 +56,7 @@ export default () => {
                 py={2}
                 style={{
                   position: 'absolute',
-                  bottom: 0,
-                  overflowX: 'scroll'
+                  bottom: 0
                 }}
               >
                 <GameCategoryList categoryList={data.categoryList} />
