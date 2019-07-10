@@ -3,14 +3,15 @@ import SketchfabWrapper from 'sketchfab-api-wrapper';
 
 const options = {
   camera: 0,
-  autostart: 0,
+  autostart: 1,
   autospin: 0,
   preload: 1,
   annotations_visible: 0,
-  animation_autoplay: 0,
+  animation_autoplay: 1,
   ui_infos: 0,
   ui_annotations: 0,
-  ui_controls: 1,
+  ui_animations: 0,
+  ui_controls: 0,
   ui_stop: 0,
   ui_help: 0,
   ui_hint: 0,
@@ -18,13 +19,14 @@ const options = {
   ui_watermark: 0,
   transparent: 1,
   scrollwheel: 0,
-  double_click: 1
+  double_click: 0
 };
 
 export default ({
   uid = '',
   onClick,
   children = () => {},
+  onLoad = () => {},
   width = '100%',
   height = 500,
   ...props
@@ -54,10 +56,12 @@ export default ({
 
       window.api = api;
 
+      onLoad(api);
+
       setIsLoaded(false);
     };
     init();
-  }, [onClick, uid]);
+  }, [onClick, onLoad, uid]);
 
   return (
     <div style={{ position: 'relative', width, height }}>

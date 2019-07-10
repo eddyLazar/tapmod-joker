@@ -32,7 +32,10 @@ export const useColorPicker = () => {
 
   const handleCanvasClick = useCallback(({ position2D, material }, api) => {
     apiRef.current = api;
-    if (material && materialsWithColorPicker.indexOf(material.name) !== -1) {
+    if (material) {
+      console.log(material);
+      console.log(material.name);
+
       setMaterial(material.name, material.channels.AlbedoPBR.color);
       setPosition(position2D);
       return;

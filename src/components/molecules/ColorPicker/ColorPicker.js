@@ -4,10 +4,10 @@ import MaterialColor from 'components/atoms/MaterialColor';
 import theme from 'theme';
 import { getColorPalette, albedoToHex } from './utils';
 
-export default ({ albedoColor, onChange }) => {
-  const hexColor = albedoToHex(albedoColor);
+export default ({ colors = [], onChange }) => {
+  // const hexColor = albedoToHex(albedoColor);
 
-  const colors = getColorPalette(hexColor);
+  // const colors = getColorPalette(hexColor);
 
   return (
     <Flex
