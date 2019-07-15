@@ -1,4 +1,4 @@
-import React, { useRef, useCallback } from 'react';
+import React, { useRef, useCallback, useState } from 'react';
 import SketchfabModel from 'components/atoms/SketchfabModel';
 import Spinner from 'components/molecules/Spinner';
 import ColorPicker from 'components/molecules/ColorPicker';
@@ -8,6 +8,41 @@ import theme from 'theme';
 import GameCategoryList from 'components/organisms/GameCategoryList';
 import data from 'data.json';
 import { Box } from 'rebass';
+
+const faceMaterials = [
+  'joker_rigged1_animTest:color_10',
+  'joker_rigged1_animTest:color_12',
+  'joker_rigged1_animTest:color_16',
+  'joker_rigged1_animTest:color_17'
+];
+
+const animationTypes = {
+  init: 'INIT',
+  idle: 'IDLE',
+  body: 'BODY',
+  face: 'FACE'
+};
+
+const runAnimations = (type, animations, api) => {
+  if (animations.length) {
+    switch (type) {
+      case animationTypes.init:
+        api.setCurrentAnimationByUID(animations[0][0]);
+        break;
+      case animationTypes.idle:
+        api.setCurrentAnimationByUID(animations[1][0]);
+        break;
+      case animationTypes.face:
+        api.setCurrentAnimationByUID(animations[2][0]);
+        break;
+      case animationTypes.body:
+        api.setCurrentAnimationByUID(animations[3][0]);
+        break;
+      default:
+        break;
+    }
+  }
+};
 
 export default () => {
   const {
@@ -20,17 +55,21 @@ export default () => {
 
   const wrapperRef = useRef(null);
 
-  useOutsideClick(wrapperRef, clearMaterialClick);
+  const [animations, setAnimations] = useState([]);
 
   const onLoad = useCallback(api => {
     api.getAnimations(function(err, animations) {
-      api.play();
-      api.setCurrentAnimationByUID(animations[0][0]);
+      setAnimations(animations);
+
+      runAnimations(animationTypes.init, animations, api);
+
       api.addEventListener('animationEnded', function() {
-        api.setCurrentAnimationByUID(animations[1][0]);
+        runAnimations(animationTypes.idle, animations, api);
       });
     });
   }, []);
+
+  useOutsideClick(wrapperRef, clearMaterialClick);
 
   return (
     <div ref={wrapperRef}>
@@ -49,7 +88,18 @@ export default () => {
                 material: materialName,
                 hexColor: color
               });
+
               clearMaterialClick();
+
+              if (animations.length) {
+                if (faceMaterials.indexOf(materialName) !== -1) {
+                  animations.length &&
+                    runAnimations(animationTypes.face, animations, api);
+                } else {
+                  animations.length &&
+                    runAnimations(animationTypes.body, animations, api);
+                }
+              }
             };
 
             colorPicker = (
@@ -66,8 +116,9 @@ export default () => {
             <React.Fragment>
               {colorPicker}
               {isLoading && <Spinner />}
-              <JokerText />
+              <JokerText onClick={clearMaterialClick} />
               <Box
+                onClick={clearMaterialClick}
                 width="100%"
                 px={[1, 0]}
                 py={2}
