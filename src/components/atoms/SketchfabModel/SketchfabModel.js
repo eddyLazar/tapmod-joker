@@ -47,9 +47,13 @@ export default ({
 
       const api = { ...wrapper, ...wrapper.api };
       if (onClick) {
-        api.addEventListener('click', function(event) {
-          onClick(event, api);
-        });
+        api.addEventListener(
+          'click',
+          function(event) {
+            onClick(event, api);
+          },
+          { pick: 'slow' }
+        );
       }
 
       sketchFabApiRef.current = api;
@@ -67,7 +71,7 @@ export default ({
     <div style={{ position: 'relative', width, height }}>
       {children(isLoading, sketchFabApiRef.current)}
       <iframe
-        title={uid}
+        title="Joker Poker"
         id={uid}
         height="100%"
         width="100%"
