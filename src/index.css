@@ -19,42 +19,6 @@
   font-style: normal;
 }
 
-/*
-@font-face {
-  font-family: 'ProximaNova';
-  src: url('./fonts/ProximaNova-Bold.woff?v=1.1.0') format('woff');
-  font-weight: 600;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'ProximaNova';
-  src: url('./fonts/ProximaNova-Black.woff?v=1.1.0') format('woff');
-  font-weight: bolder;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'ProximaNova';
-  src: url('./fonts/ProximaNova-Black.woff?v=1.1.0') format('woff');
-  font-weight: 900;
-  font-style: normal;
-} */
-/* @font-face {
-  font-family: 'ProximaNova';
-  src: url('../fonts/ProximaNova/Black/ProximaNova-Black.eot?v=1.1.0');
-  src: url('../fonts/ProximaNova/Black/ProximaNova-Black.eot?#iefix&v=1.1.0')
-      format('embedded-opentype'),
-    url('../fonts/ProximaNova/Black/ProximaNova-Black.woff?v=1.1.0')
-      format('woff'),
-    url('../fonts/ProximaNova/Black/ProximaNova-Black.ttf?v=1.1.0')
-      format('truetype'),
-    url('../fonts/ProximaNova/Black/ProximaNova-Black.svg?v=1.1.0#ProximaNovaBlack')
-      format('svg');
-  font-weight: 900;
-  font-style: normal;
-} */
-
 a {
   text-decoration: none;
 }

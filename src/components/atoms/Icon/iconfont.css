@@ -1,7 +1,6 @@
 @font-face {
   font-family: 'iconfont';
-  /* src: url('https://sol1.casino/fonts/iconfont/iconfont.eot?v=1558443347956'); */
-  src: url('/iconfont.woff?v=1558443347956') format('woff');
+  src: url('./iconfont.woff?v=1558443347956') format('woff');
   font-weight: normal;
   font-style: normal;
 }
