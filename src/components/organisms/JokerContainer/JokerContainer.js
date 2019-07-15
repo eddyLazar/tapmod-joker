@@ -140,7 +140,9 @@ export default () => {
               const colors = materialColorPalette[materialName];
 
               if (colors) {
-                const offsetX = pickerPosition[0];
+                const offsetX =
+                  pickerPosition[0] -
+                  theme.colorPicker.getPickerWidth(colors.length) / 2;
                 const offsetY = pickerPosition[1];
                 colorPicker = (
                   <div

@@ -8,6 +8,13 @@ const borderRadius = [25];
 
 const space = [0, 4, 8, 16, 32, 64, 128, 256];
 const transition = 'all 0.2s cubic-bezier(0.25,0.1,0.25,1)';
+const colorPickerRadius = 12;
+
+const colorPicker = {
+  radius: colorPickerRadius,
+  getPickerWidth: (colorsNumber = 0) =>
+    colorPickerRadius * 2 * colorsNumber * 1.25
+};
 
 export default {
   transition,
@@ -32,7 +39,7 @@ export default {
   headerZindex: 9998,
   headerHeight: [50, 60],
   sidebarWidth: [50, 80],
-  colorRadius: 14,
+  colorPicker,
   jokerHeight: 700,
   helpers: {
     onSmallOnly,

@@ -2,9 +2,9 @@ import styled from 'styled-components';
 import theme from 'theme';
 
 const Color = styled.div`
-  width: ${theme.colorRadius * 2}px;
-  height: ${theme.colorRadius * 2}px;
-  border-radius: ${theme.colorRadius}px;
+  width: ${theme.colorPicker.radius * 2}px;
+  height: ${theme.colorPicker.radius * 2}px;
+  border-radius: ${theme.colorPicker.radius}px;
   transition: ${theme.transition};
   background-color: ${({ color }) => color};
   cursor: pointer;
