@@ -1,6 +1,5 @@
-import React, { useState } from 'react';
+import React from 'react';
 import styled from 'styled-components';
-// import IconButton from 'components/molecules/IconButton';
 import Button from 'components/atoms/Button';
 import Icon from 'components/atoms/Icon';
 import theme from 'theme';

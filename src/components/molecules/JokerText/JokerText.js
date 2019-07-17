@@ -1,6 +1,5 @@
 import React from 'react';
 import Button from 'components/atoms/Button';
-import { Box } from 'rebass';
 import { Title, Text } from 'components/atoms/Typography';
 import styled from 'styled-components';
 import theme from 'theme';
